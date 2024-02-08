@@ -1,1 +1,2 @@
-# git_trail_vesrion
+this is like index page
+i' writing it on repository
